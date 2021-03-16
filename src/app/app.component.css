@@ -140,6 +140,9 @@ body {
   max-width: 50px;
   max-height: 30px;
 }
+#mainForm button svg{
+  margin-bottom: 8px;
+}
 .min{
   color: #17a2b8;
 }
