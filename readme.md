@@ -4,4 +4,4 @@ Recuros: Utilizei uma versão atualizada do Angular e o método padrão para faz
 
 Utilização: O endereço padrão é: "http://localhost:4200/".
 
-Para incialo, basta rodar um "ng serve" com a aplicação backend já em execução.
+Para iniciar, basta rodar um "ng serve".
